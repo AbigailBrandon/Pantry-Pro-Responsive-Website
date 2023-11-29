@@ -46,12 +46,4 @@ Here's an example of how to configure your API key in the app:
 api_key = 'YOUR_API_KEY'
 
 
-
-
-## License
-This project is licensed under the MIT License.
-
-
-
-
 [Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/AbigailBrandon/Pantry-Pro-Responsive-Website)
